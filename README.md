@@ -13,4 +13,4 @@ Let's implement CIFAR-10 image classification in various ways.
    - crop
    - blur
 
-   2.4. Class Imblalance
+   2.4. Class Imbalance
