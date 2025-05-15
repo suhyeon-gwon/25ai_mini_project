@@ -1,6 +1,8 @@
 # [Artificial Intelligence] Mini Project
 Let's implement CIFAR-10 image classification in various ways.
 
+pipeline.ipynb consists of following three parts.
+
 1. Baseline
 
 2. Variants
@@ -14,3 +16,5 @@ Let's implement CIFAR-10 image classification in various ways.
    - blur
 
    2.4. Class Imbalance
+
+3. Comparison
