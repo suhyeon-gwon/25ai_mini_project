@@ -18,3 +18,29 @@ pipeline.ipynb consists of following three parts.
    2.4. Class Imbalance
 
 3. Comparison
+
+I omit 'data' and 'model' directory due to their large size.
+
+Please refer to following directory structure to implement 'pipeline.ipynb'.
+
+25ai_mini_project
+
+ㄴdata
+
+ㄴmodel
+
+   ㄴ1_baseline
+   
+   ㄴ2-1_var1
+   
+   ㄴ2-2_var2
+   
+   ㄴ2-3_1_var3_1
+   
+   ㄴ2-3_var3
+   
+   ㄴ2-4_var4
+   
+   ㄴbest_models
+
+ㄴpipeline.ipynb
